@@ -11,14 +11,20 @@ import statistics
 
 # start to something
 
-data = df = pd.read_csv('world_population.csv')
+df = pd.read_csv('world_population.csv')
 #print(data)
 df = df.dropna()                                                                                                                  
 print(df.head())
 print(df.info())
 print(df.describe())
-#op= statistics.stdev(df,1)
+we = statistics.median(df)
+print(we)
+#op= df.std()
+#print(op)
 #print(op)
 #std_dev = statistics.stdev(df)
 #print(std_dev)
-print()
+#print(df.mode())
+
+#std_col6 = df['col6'].std()
+#print("\nStandard deviation for col1:\n", std_col6)
