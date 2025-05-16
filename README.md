@@ -7,9 +7,9 @@
 Here is a summary of the world population for the years:
 
 
-|Population|By Year|
---------|----------
 |year:|Population|
+--------|----------
+|||
 |2022:|34,074,410|
 | 2020: | 33,501,070|
 | 2015: | 31,729,960|
@@ -32,9 +32,9 @@ The mode of the dataset. the mode represents the most frequently occurring popul
 Standard Deviation (1970–2022):
 The standard deviation measures the spread of the world population values across the years. Here is the standard deviation for each year:
 
-| |  | 
+|**year:**|**Deviation**| 
 --------|---------
-|**year:**| **Deviation**|
+|| |
 |2022:| 136,766,400|
 | 2020: | 135,589,900 |
 |2015:  | 130,405,000 |
