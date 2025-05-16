@@ -1,4 +1,4 @@
-# BigDataScience <br> <img src="image.png">
+# BigDataScience
 ##
 ### key statistics
 * population<br>
