@@ -1,5 +1,6 @@
 import pandas as pd
 import csv
+import statistics
 
 
 #pd.set_option('display.max_rows', None)
@@ -16,8 +17,8 @@ df = df.dropna()
 print(df.head())
 print(df.info())
 print(df.describe())
-
+#op= statistics.stdev(df,1)
+#print(op)
+#std_dev = statistics.stdev(df)
+#print(std_dev)
 print()
-
-
-
