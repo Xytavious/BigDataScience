@@ -2,6 +2,9 @@
 ## World Population: 1970-2022
 ### Key Statistics of World Population from 1970 to 2022
 
+Below are the each year and their corresponding rank and statistics.
+The years with higher ranks have much higher populations and avrages then thoes with lower ranks.
+
 | Rank | 2022 Population|2020 Population | 2015 Population| 2010 Population| 2000 Population| 1990 Population|1990 Population|1990 Population|1980 Population|1970 Population|Area (km²)|Density (per km²)|Growth Rate|World Population Percentage
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |count |234.000000|2.340000e+02 |2.340000e+02 |2.340000e+02|2.340000e+02|2.340000e+02|2.340000e+02|2.340000e+02|2.340000e+02|2.340000e+02|2.340000e+02|234.000000|234.000000|234.000000|234.000000
@@ -49,11 +52,11 @@ The standard deviation measures the spread of the world population values across
 |**year:**|**Deviation**| 
 --------|---------
 || |
-|2022:| 136,766,400|
-| 2020: | 135,589,900 |
-|2015:  | 130,405,000 |
-| 2010: | 124,218,500 |
-|2000:  | 111,698,200|
-|1990:  |97,832,170|
-|1980:  |81,785,190|
-|1970: |67,795,090|
+|2022:|136,766,400|
+|2020:|135,589,900|
+|2015:|130,405,000|
+|2010:|124,218,500|
+|2000:|111,698,200|
+|1990:|97,832,170|
+|1980:|81,785,190|
+|1970:|67,795,090|
