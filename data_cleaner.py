@@ -11,7 +11,7 @@ import statistics
 
 # start to something
 
-df = pd.read_csv('all_stocks_5yr.csv')
+df = pd.read_csv('world_population.csv')
 #print(data)
 df = df.dropna()                                                                                                                  
 print(df.head())
